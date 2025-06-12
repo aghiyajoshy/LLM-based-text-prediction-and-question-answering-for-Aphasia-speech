@@ -1,0 +1,2 @@
+# LLM-based-text-prediction-and-question-answering-for-Aphasia-speech
+This project develops a LLM based system to assist aphasia patients by predicting missing words and answering questions from fragmented or disfluent speech. It combines speech-to-text transcription (AssemblyAI), masked language modeling (RoBERTa), and question answering to reconstruct meaningful sentences and provide relevant responses.
